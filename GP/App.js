@@ -6,8 +6,8 @@ import LoginScreen from './Screens/AuthScreens/LoginScreen';
 
 export default function App() {
   return (
-    // <Navigation />
-    <LoginScreen />
+    <Navigation />
+    // <LoginScreen />
   );
 }
 
